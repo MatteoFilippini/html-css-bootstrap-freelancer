@@ -1,8 +1,10 @@
+/* header */
 header{
     border: 1px solid red;
     min-height: 50px;
 }
 
+/* jumbo */
 .jumbotron{
     min-height: 500px;
     border: 1px solid green;
@@ -13,4 +15,11 @@ header{
     margin: 0 auto;
     border: 1px solid red;
     min-height: 500px;
+}
+
+/* image */
+.image{
+    background-color: #f0f;
+    height: 300px;
+    margin: 20px 0;
 }
