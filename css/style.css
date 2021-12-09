@@ -1,11 +1,11 @@
 /* header */
 header{
     border: 1px solid red;
-    min-height: 50px;
+    min-height: 100px;
 }
 
 /* jumbo */
-.jumbotron{
+.jumbotron{ 
     min-height: 500px;
     border: 1px solid green;
 }
@@ -22,7 +22,6 @@ header{
     background-color: #dedede;
     border: 1px solid black;
     margin: 20px 0;
-    min-height: 300px;
 }
 
 /* about */
@@ -33,10 +32,13 @@ header{
 }
 
 /* footer */
-.row{
-    /* background-color: yellow; */
-    min-height: 500px;
-    /* border: 1px solid red; */
-    
+
+
+.image{
+    height: 300px;
+}
+
+.h-header{
+    height: 50px;
 }
 
