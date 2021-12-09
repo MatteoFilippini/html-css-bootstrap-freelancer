@@ -25,8 +25,15 @@ header{
 }
 
 /* about */
-.about{
+.container-small{
     width: 60%;
     margin: 0 auto;
     border: 1px solid green;
+}
+
+/* footer */
+.row{
+    background-color: green;
+    min-height: 50px;
+    border: 1px solid red;
 }
