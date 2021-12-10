@@ -1,7 +1,6 @@
 /* header */
-header{
-    border: 1px solid red;
-    min-height: 100px;
+.bg-blue{
+    background-color: #3a546d;
 }
 
 /* jumbo */
@@ -18,10 +17,7 @@ header{
 }
 
 /* image */
-[class^='col']{
-    background-color: #dedede;
-    border: 1px solid black;
-}
+
 
 /* about */
 .container-small{
@@ -41,3 +37,8 @@ header{
     height: 50px;
 }
 
+
+#contact-me .form-control{
+    border-radius: 0;
+    border-width: 0 0 1px 0;
+}
