@@ -5,20 +5,35 @@
 
 /* jumbo */
 .jumbotron{ 
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .jumbrotron-container{
     width: 80%;
     margin: 0 auto;
+    padding: 30px 0;
     border: 1px solid red;
-    min-height: 500px;
+    /* min-height: 500px; */
 }
 
 #image-profile{
     height: 300px;
     width: 300px;
 }
+
+.separator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+
+.linea{
+    flex-basis: 50px;
+    margin: 0 20px;
+}
+
+
 
 /* image */
 
