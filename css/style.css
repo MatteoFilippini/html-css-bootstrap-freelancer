@@ -4,16 +4,13 @@
 }
 
 /* jumbo */
-.jumbotron{ 
-    /* border: 1px solid green; */
-}
+
 
 .jumbrotron-container{
     width: 80%;
     margin: 0 auto;
     padding: 30px 0;
     border: 1px solid red;
-    /* min-height: 500px; */
 }
 
 #image-profile{
@@ -25,12 +22,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 1px solid red; */
+    margin-bottom: 8px;
 }
 
 .linea{
     flex-basis: 50px;
     margin: 0 20px;
+    background-color: #fff;
+    height: 3px;
 }
 
 
