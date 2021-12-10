@@ -19,7 +19,6 @@
 .linea{
     flex-basis: 50px;
     margin: 0 20px;
-    background-color: #fff;
     height: 3px;
 }
 
@@ -31,13 +30,12 @@
     border: 1px solid red;
 }
 
-/* about */
-.container-small{
-    width: 60%;
-    margin: 0 auto;
-    border: 1px solid green;
-}
 
+/* about */
+
+.fa-download:before {
+    margin-right: 5px;
+}
 /* footer */
 
 
