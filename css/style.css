@@ -5,7 +5,6 @@
 
 /* jumbo */
 .jumbotron{ 
-    min-height: 500px;
     border: 1px solid green;
 }
 
@@ -14,6 +13,11 @@
     margin: 0 auto;
     border: 1px solid red;
     min-height: 500px;
+}
+
+#image-profile{
+    height: 200px;
+    width: 200px;
 }
 
 /* image */
